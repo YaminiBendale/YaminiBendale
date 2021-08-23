@@ -1,6 +1,7 @@
-Hi, I am Executive-WFM  at WNS Global services(WNS) having experience in Python Developement and Data analysis.Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
+Hi, I am Executive-WFM at WNS Global Services(WNS) having experience in Python Development and Data analysis. I am looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization's as well as to enhance my knowledge about new and emerging trends in the IT sector.
 
-Skills - Python, SQL,MongoDB, Data Visualization, Data Cleaning, Webscraping, Selenium, BeautifulSoup,NumPy, Pandas,Machine Learning,Power BI,Tableau Advance Excel, VBA.
+Skills - Python, SQL, MongoDB, Data Visualization, Data Cleaning, Web scraping, Selenium, BeautifulSoup, NumPy, Pandas, Machine Learning, Power BI, Tableau Advance Excel, VBA.
+
 
 Projects- 
 
